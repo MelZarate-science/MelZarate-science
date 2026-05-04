@@ -13,7 +13,7 @@
   <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Hi there! I'm Mel Zárate 🇦🇷</h3>
 
   <!-- Texto con sangría manual para alinear con el título -->
-  &nbsp;&nbsp;&nbsp;&nbsp; **AI Developer & Independent Consultant** based in Córdoba, Argentina[cite: 2].
+  &nbsp;&nbsp;&nbsp;&nbsp; **AI Developer & Independent Consultant** based in Córdoba, Argentina.
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp; My work lives at the intersection of **AI Engineering** and **Business Strategy**, 
   <br>
