@@ -29,23 +29,31 @@
 
 ### What I Do
 
-<table border="0">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/AI_Orchestration-6366f1?style=for-the-badge&logo=openai&logoColor=white" />
-      <br><br>
-      <ul>
-        <li><b>AI Systems</b>: Designing <b>GenAI</b> architectures, <b>RAG</b> systems, and <b>Agents</b>.</li>
-        <li><b>Advanced RAG</b>: Expertise in <b>LangChain</b> and hallucination mitigation (<b>Groundedness</b>).</li>
-      </ul>
+    <!-- COLUMNA 1: AI SYSTEMS -->
+    <td valign="top" width="33%">
+      <img src="https://img.shields.io/badge/AI_Systems-6366f1?style=for-the-badge&logo=openai&logoColor=white" />
+      <p align="left">
+        <b>GenAI Architectures</b>: Designing robust <b>RAG</b> systems, autonomous agents, and LLM orchestration.<br><br>
+        <b>Context Engineering</b>: Focused on <b>Groundedness</b> and hallucination mitigation for reliability.
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/Data_Architecture-4b5563?style=for-the-badge&logo=surrealdb&logoColor=white" />
-      <br><br>
-      <ul>
-        <li><b>The Stack</b>: <b>FastAPI</b>, <b>Docker</b>, and <b>CI/CD</b> for reliable production deployments.</li>
-        <li><b>Databases</b>: <b>PostgreSQL (PGVector)</b>, <b>Supabase</b>, and <b>SurrealDB</b> (Graph).</li>
-      </ul>
+    <!-- COLUMNA 2: MACHINE LEARNING -->
+    <td valign="top" width="34%">
+      <img src="https://img.shields.io/badge/ML_&_Science-059669?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      <p align="left">
+        <b>Predictive Modeling</b>: Expertise in <b>Clustering</b>, regression, and classification with <b>Scikit-learn</b>.<br><br>
+        <b>Data Strategy</b>: Feature Engineering, bias control, and validation to extract high-value signals.
+      </p>
+    </td>
+    <!-- COLUMNA 3: DATA & INFRA -->
+    <td valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Data_&_Infra-4b5563?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <p align="left">
+        <b>Backend & Ops</b>: Building services with <b>FastAPI</b>, <b>Docker</b>, and <b>CI/CD</b> pipelines.<br><br>
+        <b>Modern Storage</b>: Implementing Vector (<b>PGVector</b>) and Graph (<b>SurrealDB</b>) databases.
+      </p>
     </td>
   </tr>
 </table>
