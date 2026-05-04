@@ -28,14 +28,6 @@ I am an AI Developer and Independent Consultant based in Córdoba, Argentina. My
 * 📧 **Email**: [zaratemustienesmel@gmail.com](mailto:zaratemustienesmel@gmail.com)[cite: 2]
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Mel's GitHub Stats" />
-</p>
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melzarate) 
 
