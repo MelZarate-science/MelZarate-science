@@ -43,8 +43,8 @@
       <img src="https://img.shields.io/badge/Data_Architecture-4b5563?style=for-the-badge&logo=surrealdb&logoColor=white" />
       <br><br>
       <ul>
-        <li><b>The Stack</b>: <b>FastAPI</b>, <b>Docker</b>, and <b>CI/CD</b> for reliable production deployments[cite: 1, 2].</li>
-        <li><b>Databases</b>: <b>PostgreSQL (PGVector)</b>, <b>Supabase</b>, and <b>SurrealDB</b> (Graph)[cite: 1, 2].</li>
+        <li><b>The Stack</b>: <b>FastAPI</b>, <b>Docker</b>, and <b>CI/CD</b> for reliable production deployments.</li>
+        <li><b>Databases</b>: <b>PostgreSQL (PGVector)</b>, <b>Supabase</b>, and <b>SurrealDB</b> (Graph).</li>
       </ul>
     </td>
   </tr>
@@ -57,8 +57,8 @@
 > [!IMPORTANT]
 > **Product Thinking**: I bridge the gap between technical complexity and business ROI.
 
-*   🎓 **Academic**: Studying **B.S. in Business Administration** at **UNC** + **Data Science** Diploma[cite: 2].
-*   🏢 **Corporate Edge**: Former analyst at **Arcor** and **Aguas Cordobesas**, specialized in KPIs and process optimization[cite: 2].
+*   🎓 **Academic**: Studying **B.S. in Business Administration** at **UNC** + **Data Science** Diploma.
+*   🏢 **Corporate Edge**: Former analyst at **Arcor** and **Aguas Cordobesas**, specialized in KPIs and process optimization.
 *   🚀 **Mission**: Designing AI systems that solve real organizational gaps and drive commercial growth.
 
 ---
